@@ -1,0 +1,5 @@
+get all from contact  >>  http://localhost/challenge/public/setting/contact
+
+get user account >> http://localhost/challenge/public/setting/loadAccount
+
+get all product >> http://localhost/challenge/public/getProduct
